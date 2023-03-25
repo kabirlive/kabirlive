@@ -11,9 +11,9 @@
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co/gWYDPkM/css.png"  title="CSS3" alt="CSS" width="30" height="40"/>&nbsp;
+  <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/08/javascript.jpg" title="JavaScript" alt="JavaScript" width="36" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co/gFwbS3q/sql.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
